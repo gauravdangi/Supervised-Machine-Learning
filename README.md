@@ -28,6 +28,8 @@ Number of attributes are 76 but I have used 14 main attributes that are:
    3: for non-anginal pain
    4: for Asymptomatic 
 Trestbps(Resting blood pressure), chol, fbs, restecg, thalach(max heart rate achieved), exang, oldpeak, slop, ca, thal(3 = normal; 6 = fixed defect; 7 = reversible defect)  and num (the predicted attribute)  
+
+
 # 2] Springleaf Marketing Response:-
 Springleaf offers their customers personal and auto loans that helps their customers to take control of their lives and finances. Springleaf’s team connect with their customers through direct mail whom may be in need of a loan.
 Direct mails provides huge value to customers who is in need of loan and it’s a fundamental part of Springleaf’s marketing strategy. Now here in order to improve their targeted efforts, our job is to predict the customers who are likely to respond and a good candidate for their services. Data provided is anonymous and large.
