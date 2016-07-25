@@ -35,7 +35,7 @@ Springleaf offers their customers personal and auto loans that helps their custo
 Direct mails provides huge value to customers who is in need of loan and it’s a fundamental part of Springleaf’s marketing strategy. Now here in order to improve their targeted efforts, our job is to predict the customers who are likely to respond and a good candidate for their services. Data provided is anonymous and large.
 Using a large anonymised data-set, I predicted which customer will respond to a direct mail. A different approach is required to work with such a large dauntingly dataset.
 
-See pdf report that I have uploaded.
+-> See pdf report that I have uploaded.
 
-Mail me If you want code (Layers function Script will not be provided). I have implemented this in R.
+-> Mail me If you want code (Layers function Script will not be provided). I have implemented this in R.
 
