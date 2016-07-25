@@ -37,5 +37,5 @@ Using a large anonymised data-set, I predicted which customer will respond to a 
 
 See pdf report that I have uploaded.
 
-Mail mee If you want code (Layers function Script will not be provided). I have implemented this in R.
+Mail me If you want code (Layers function Script will not be provided). I have implemented this in R.
 
